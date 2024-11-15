@@ -45,7 +45,7 @@ header input {
 
 header button {
   border-radius: 14px;
-  background: transparent;
+  background-color: #0f0 !important;
   transition-duration: 200ms;
   cursor: pointer;
 }
